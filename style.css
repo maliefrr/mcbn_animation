@@ -78,15 +78,15 @@ body {
 
 @keyframes backgroundChange {
     0% {
-        background-image: url("./assets/starry-night-sky.jpg");
+        background-image: url("./assets/Langit\ revisi\ 2.png");
         background-position: center top;
     }
     25% {
-        background-image: url("./assets/starry-night-sky.jpg");
+        background-image: url("./assets/Langit\ revisi\ 2.png");
         background-position: center -100%;
     }
     50% {
-        background-image: url("./assets/Bg\ kabut.png");
+        background-image: url("./assets/Template\ Background.png");
         background-position: center -200%;
     }
     75% {
